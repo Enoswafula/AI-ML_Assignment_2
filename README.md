@@ -164,13 +164,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 # Run the notebook
 jupyter notebook titanic.ipynb
 ```
-
----
-
-## Author
-
-**Enos Wafula**
-
 ---
 
 ## Future Improvements
@@ -178,3 +171,8 @@ jupyter notebook titanic.ipynb
 * Train and evaluate multiple machine learning models
 * Perform hyperparameter tuning
 * Deploy model as an API or web app
+
+---
+## 📌 Author
+**Enos Wafula**  
+Aspiring Data Scientist | Python | SQL | Power BI
